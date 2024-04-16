@@ -1,0 +1,23 @@
+int main(){
+std::cout << Hello world
+
+ << endl;
+int number = 0;
+number += 10;
+
+int value = 100;
+
+if ( number < 100
+&& value > 10
+
+)
+std::cout << increase number
+
+ << endl;
+else
+number = i+ 10;
+value -= 10
+
+
+return 0;
+}
